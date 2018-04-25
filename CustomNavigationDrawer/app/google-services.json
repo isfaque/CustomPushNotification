@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "129788827977",
+    "firebase_url": "https://android-training-push.firebaseio.com",
+    "project_id": "android-training-push",
+    "storage_bucket": "android-training-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129788827977:android:daf78472eaf2a2ff",
+        "android_client_info": {
+          "package_name": "apps.isfaque.com.customnavigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129788827977-2apaaar8b1gkceua90m0file9gtq9ehk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRoONCyDASlZdXtp8KSIUXiqtG3F7JpmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
